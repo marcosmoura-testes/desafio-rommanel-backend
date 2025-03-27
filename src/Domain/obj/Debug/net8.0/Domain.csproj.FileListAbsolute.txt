@@ -1,0 +1,13 @@
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\bin\Debug\net8.0\Domain.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Testes_vagas\desafio-rommanel-backend\src\Domain\obj\Debug\net8.0\ref\Domain.dll

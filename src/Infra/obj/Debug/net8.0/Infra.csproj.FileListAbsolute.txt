@@ -1,0 +1,16 @@
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.sourcelink.json
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\bin\Debug\net8.0\Infra.deps.json
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\bin\Debug\net8.0\Infra.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\bin\Debug\net8.0\Infra.pdb
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\bin\Debug\net8.0\Domain.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\bin\Debug\net8.0\Domain.pdb
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\refint\Infra.dll
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\Infra.pdb
+D:\Testes_vagas\desafio-rommanel-backend\src\Infra\obj\Debug\net8.0\ref\Infra.dll
